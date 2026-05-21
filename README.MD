@@ -53,8 +53,7 @@ var connMysql = function(){
 ```
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
 
-
-
-
+- Aqui uma Demonstração do Projeto:
+https://node-noticias-ejs-lilac-forest-3276.fly.dev/
 
 
