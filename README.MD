@@ -5,10 +5,10 @@ Exemplo de criação de site de notícias em Node.js e View Engine EJS.
 
 | Tecnologia | Descrição |
 |-----------|-----------|
-| **EJS** | mecanismo de templates (view engine) para Node.js.  |
-| **Consign** |  é uma biblioteca para Node.js que automatiza o carregamento de arquivos (como rotas, models, controladores e configurações) |
+| **EJS** | Mecanismo de templates (view engine) para Node.js.  |
+| **Consign** |Biblioteca para Node.js que automatiza o carregamento de arquivos (como rotas, models, controladores e configurações) |
 
-#### Requisitos do Projeto
+#### 📁 Requisitos do Projeto
 - Recuperar as dependencias do projeto node_modules . 
 ```bash
 npm install
