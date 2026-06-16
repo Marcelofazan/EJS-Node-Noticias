@@ -1,5 +1,5 @@
 ## 🌐 EJS-Node-Noticias
-Exemplo de site de notícias em Node.js e View Engine EJS.
+Exemplo de site de notícias em View Engine EJS e Node.js.
 
 #### 🎨 Aqui uma Demonstração do Projeto:
 https://node-noticias-ejs-lilac-forest-3276.fly.dev/
