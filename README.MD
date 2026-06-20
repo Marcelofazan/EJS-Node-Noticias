@@ -11,8 +11,13 @@ https://node-noticias-ejs-lilac-forest-3276.fly.dev/
 | **EJS** | Mecanismo de templates (view engine) para Node.js.  |
 | **Consign** |Biblioteca para Node.js que automatiza o carregamento de arquivos (como rotas, models, controladores e configurações) |
 
-#### Requisitos do Projeto
+#### 💬 Requisitos do Projeto
 - Para executar a aplicação é necessário a executar o Script do MySQL.
+
+Alterar o arquivo BAT para [SUA_SENHA], adicionando após (-p) sem espaços. 
+```bash
+%MYSQL_BIN% -u root -p[SUA_SENHA] < "Database\ScriptDatabase.sql"
+``` 
 
 #### ⚠️ String de conexão do banco
 Modifique a string de conexão no arquivo **dbConnection.js**, no trecho indicado:
@@ -42,14 +47,6 @@ npm install
 node app.js
 ```
 
-- Para executar a aplicação é necessário executar o Script do MySQL .
-
-Alterar o arquivo BAT para [SUA_SENHA], adicionando após (-p) sem espaços. 
-```bash
-%MYSQL_BIN% -u root -p[SUA_SENHA] < "Database\ScriptDatabase.sql"
-``` 
-
-#### 🧪 Executar Endpoints 
 | Metodo | Descrição |
 |-----------|-----------|
 | Metodo: GET| http://localhost:3000/noticias |
