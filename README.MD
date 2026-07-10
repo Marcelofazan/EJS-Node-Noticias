@@ -1,4 +1,4 @@
-## 🌐 EJS-Noticias-Node-mvp
+## 🌐 EJS-Noticias-Node
 Aplicativo de notícias em EJS View Engine e Node.js com banco de dados MySQL.
 
 #### 🎨 Aqui uma Demonstração do Projeto
